@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-29 12:46-0500\n"
+"PO-Revision-Date: 2017-03-29 12:46-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+
+#: proyecto/settings.py:126
+msgid "Español"
+msgstr ""
+
+#: proyecto/settings.py:127
+msgid "English"
+msgstr ""
+
+#: templates/autenticacion/login.html:9 templates/autenticacion/login.html:43
+msgid "Posgrados"
+msgstr "Postgraduate courses"
+
+#: templates/autenticacion/login.html:44
+msgid "Sistema de Gestion de Tesis de Posgrados EISC"
+msgstr "EISC Postgraduate Thesis Management System"
+
+#: templates/autenticacion/login.html:54
+msgid "Usuario"
+msgstr "Username"
+
+#: templates/autenticacion/login.html:57
+msgid "Contraseña"
+msgstr "Password"
+
+#: templates/autenticacion/login.html:61
+msgid "Recordar nombre de usuario"
+msgstr "Remember username"
+
+#: templates/autenticacion/login.html:65
+msgid "Iniciar seccion"
+msgstr "Sign in"
+
+#: templates/inicio/index.html:7
+msgid "Ver esta categoría en:"
+msgstr "See this category in:"
+
+#~ msgid "Nombre de Usuario"
+#~ msgstr "Username"
