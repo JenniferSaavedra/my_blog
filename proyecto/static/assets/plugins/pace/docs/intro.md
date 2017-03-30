@@ -76,7 +76,7 @@ Collectors are the bits of code which gather progress information.  Pace include
 
 - Elements
 
-  Checks for the existance of specific elements on the page
+  Checks for the existence of specific elements on the page
 
 - Document
 
