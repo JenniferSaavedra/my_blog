@@ -5,6 +5,7 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="django.conf.global_settings.TEMPLATE_CONTEXT_PROCESSORS" />
+          <option value="proyecto.usuarios.admin.usuarios" />
         </list>
       </option>
     </inspection_tool>

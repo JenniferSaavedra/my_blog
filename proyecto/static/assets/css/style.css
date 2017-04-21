@@ -1700,12 +1700,12 @@ legend {
 .btn-primary:active, 
 .btn-primary.active, 
 .open .dropdown-toggle.btn-primary {
-    background: #2a72b5;
-    border-color: #2a72b5;
+    background: #b52929;
+    border-color: #b52929;
 }
 .btn-group .btn.btn-primary:not(.active) + .btn.btn-primary,
 .input-group-btn .btn.btn-primary:not(.active) + .btn.btn-primary {
-    border-left-color: #2a72b5;
+    border-left-color: #b52929;
 }
 
 
@@ -1943,7 +1943,7 @@ legend {
 .panel-success > .panel-heading { background: #008a8a; }
 .panel-warning > .panel-heading { background: #c47d15; }
 .panel-danger > .panel-heading { background: #cc4946; }
-.panel-primary > .panel-heading { background: #2a72b5; }
+.panel-primary > .panel-heading { background: #b52929; }
 .panel-info > .panel-heading { background: #3a92ab; }
 
 
@@ -2730,7 +2730,7 @@ a.text-white:focus {
 .bg-green-lighter { background: #33bdbd !important; }
 
 .bg-blue { background: #348fe2 !important; }
-.bg-blue-darker { background: #2a72b5 !important; }
+.bg-blue-darker { background: #b52929 !important; }
 .bg-blue-lighter { background: #5da5e8 !important; }
 
 .bg-aqua { background: #49b6d6 !important; }
